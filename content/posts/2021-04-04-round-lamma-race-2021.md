@@ -1,5 +1,5 @@
 ---
-title: Round Lamma Race is back !
+title: Round Lamma Race is back for 2021
 date: 2021-04-04
 draft: false
 featured_image: ../assets/images/featured/2021-round-lamma-hero.webp
