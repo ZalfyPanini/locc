@@ -88,7 +88,7 @@ menu:
     - identifier: blog
       name: Blog
       url: /posts/
-      weight: 50
+      weight: 10
   main:
     - identifier: contact
       name: Contact
