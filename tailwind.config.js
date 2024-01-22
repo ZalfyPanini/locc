@@ -10,17 +10,18 @@ module.exports = {
         transparent: 'transparent',
         current: 'currentColor',
         'primary': {
-          DEFAULT: '#6366F1',
-          50: '#FFFFFF',
-          100: '#F9F9FE',
-          200: '#D3D4FB',
-          300: '#AEAFF8',
-          400: '#888BF4',
-          500: '#6366F1',
-          600: '#3034EC',
-          700: '#1317D1',
-          800: '#0E119E',
-          900: '#0A0C6A'
+          DEFAULT: '#DC2626',
+          50: '#F6C4C4',
+          100: '#F3B3B3',
+          200: '#ED8F8F',
+          300: '#E76C6C',
+          400: '#E24949',
+          500: '#DC2626',
+          600: '#AE1C1C',
+          700: '#7E1414',
+          800: '#4D0C0C',
+          900: '#1D0505',
+          950: '#050101'
         },
         'secondary': {
           DEFAULT: '#EC4899',
@@ -99,3 +100,4 @@ module.exports = {
   },
   plugins: [require("@tailwindcss/typography")],
 };
+
