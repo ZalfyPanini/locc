@@ -41,8 +41,5 @@
   "bugs": {
     "url": "https://github.com/nusserstudios/tailbliss/issues"
   },
-  "homepage": "https://github.com/nusserstudios/tailbliss",
-  "dependencies": {
-    "decap-cms-app": "^3.0.12"
-  }
+  "homepage": "https://github.com/nusserstudios/tailbliss"
 }
