@@ -17,7 +17,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Start time",
-        name: "start", widget: "datetime"
+        name: "start", widget: "datetime",
         default: "",
         date_format: "YYYY-MM-DD", # e.g. 24.12.2021,
         time_format: false,
