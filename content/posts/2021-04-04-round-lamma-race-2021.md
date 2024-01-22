@@ -1,10 +1,13 @@
 ---
-template: blog-post
-title: Round Lamma Race is back !
+featured_image: /images/uploads/2021-round-lamma-hero.webp
+summary: The Round Lamma Race is back after COVID!
 slug: /rlr2021
-date: 2021-04-04 13:53
-description: The return of the Round Lamma Race after two years of COVID!
 featuredImage: /assets/round-lamma-hero.webp
+title: Round Lamma Race is back !
+date: 2021-04-04 13:53
+tags: race
+template: blog-post
+description: The return of the Round Lamma Race after two years of COVID!
 ---
 The Round Lamma Race is back !
 
