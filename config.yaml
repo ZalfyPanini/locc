@@ -1,4 +1,4 @@
-baseURL: http://localhost:1818 
+baseURL: https://lammaocc.netlify.app
 title: LOCC
 languageCode: en-us
 DefaultContentLanguage: en
