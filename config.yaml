@@ -85,6 +85,11 @@ params:
 
 menu:
   main:
+    - identifier: blog
+      name: Blog
+      url: /posts/
+      weight: 50
+  main:
     - identifier: contact
       name: Contact
       url: /contact/
@@ -92,7 +97,7 @@ menu:
   footer:
     - identifier: blog
       name: Blog
-      url: /categories/blog/
+      url: /posts/
       weight: 20
     - identifier: contact
       name: Contact
